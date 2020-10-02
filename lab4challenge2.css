@@ -1,0 +1,47 @@
+
+
+
+
+#wrapper{
+
+  margin: 10px 10% 20px 10%;
+  border: purple 3px dotted;
+  padding: 80px 20% 10px 20%;
+  font-size: 12px;
+  text-align: center;
+
+}
+
+.green {
+  color:green;
+  font-size: 5px;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+.orange {
+  color:orange;
+  font-size: 20px;
+
+  font-weight: bold;
+}
+
+
+.red {
+  color: red;
+  vertical-align: super;
+}
+
+.purple {
+  color:purple;
+  font-size: 5px;
+  font-weight: bold;
+  text-align: right;
+
+}
+
+.yellow{
+  color:yellow;
+font-style: italic;
+}
